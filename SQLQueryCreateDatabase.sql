@@ -1,0 +1,1 @@
+create database db1; --Este es un comentario-- --Este comando sirve para crear una base de datos "create database (nombre de la base de datos)--

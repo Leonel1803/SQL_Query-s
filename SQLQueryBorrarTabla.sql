@@ -1,0 +1,1 @@
+drop table Usuarios; --Borra la tabal especificada en la base de datos "drop table (nombre de la tabla)"--
